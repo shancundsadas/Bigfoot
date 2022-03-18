@@ -37,9 +37,9 @@
 ```
 ## 说明
 
-具体方法请查阅 官方文档（）
+具体方法请查阅 
+官方网站 http://bigfoot.renxingdao.work/
+官方文档 https://www.kancloud.cn/shuaishuai_162/jb_tool/2680688
 
-添加QQ群：
 
-## 捐赠
 

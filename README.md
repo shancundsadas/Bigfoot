@@ -12,7 +12,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        引入脚本包（脚本包地址）
+// @require        引入脚本包（脚本包地址）
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
